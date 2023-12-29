@@ -34,13 +34,31 @@
  ***
 
 12. Come si scrive un commento in JavaScript?
+ ***Un commento in javascript si scrive con "// commennto" o con "/*commento*/"
+
 13. Quali sono i cicli in JavaScript e come funzionano?
+ ***I cicli in Javascript sono : For, for..of, for...in while, do...while
+
 14. Cosa sono le variabili `var`, `let` e `const`?
+ ***
+
 15. Cos'è la "hoisting" in JavaScript?
+ ***L'hoisting è un comportamento che si verifica in JavaScript durante la fase di esecuzione del codice. Si riferisce al sollevamento (o "alzamento") delle dichiarazioni delle variabili e delle funzioni al "top" del loro contesto di esecuzione prima che il codice venga effettivamente eseguito.
+
 16. Come funziona il garbage collection in JavaScript?
+ ***Il garbage collection in JavaScript è il processo automatico attraverso il quale il motore JavaScript gestisce la memoria liberando risorse non più necessarie o inutilizzate
+
 17. Cos'è un callback in JavaScript?
+ ***In JavaScript, un "callback" è una funzione che viene passata come argomento a un'altra funzione e che viene eseguita dopo che l'esecuzione di quella funzione è stata completata.
+
 18. Come si manipola il DOM con JavaScript?
+ ***Il DOM, in javascript, lo si può manipolare la selezione di argomenti tramite metodi come: getElementById, getElementsByClassName, getElementsByTagName, querySelector e querySelectorAll.
+ Tramite la modifica dei contenuti come il text content.
+ Tramite la creazione di nuovi elementi come il createElement e tramute la gestione degli eventi come addEventListener
+
 19. Cosa sono gli eventi in JavaScript?
+ ***In JavaScript, gli eventi sono interazioni o situazioni che si verificano nel browser.
+
 20. Come si previene il comportamento predefinito di un evento?
 21. Cosa sono le espressioni regolari in JavaScript?
 22. Come si cattura un errore con try-catch?
