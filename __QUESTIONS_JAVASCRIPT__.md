@@ -60,15 +60,37 @@
  ***In JavaScript, gli eventi sono interazioni o situazioni che si verificano nel browser.
 
 20. Come si previene il comportamento predefinito di un evento?
+ ***Per prevenire il comportamento predefinito di un evento in JavaScript, si può utilizzare il metodo preventDefault()
+ 
 21. Cosa sono le espressioni regolari in JavaScript?
+ ***Le espressioni regolari, in JavaScript, sono oggetti che rappresentano un modello di testo e forniscono un modo potente per la ricerca e la manipolazione di stringhe.
+
 22. Come si cattura un errore con try-catch?
+ ***Un errore si può "catturare" con il try-catch, dove il blocco try contiene il codice che potrebbe generare un'eccezione. Se si verifica un'eccezione durante l'esecuzione di questo blocco, il controllo passa al blocco catch (o except), dove è possibile gestire l'errore in modo appropriato. Il blocco finally (quando presente) contiene il codice che verrà eseguito sempre, indipendentemente dal fatto che si verifichi o meno un'eccezione.
+
 23. Cosa sono le promesse in JavaScript?
+ ***In JavaScript, le promesse (promises) sono un costrutto che consente di gestire operazioni asincrone in modo più leggibile ed efficace rispetto alle callback annidate. 
+
+
 24. Cos'è l'asincronia in JavaScript?
+ ***L'asincronia in JavaScript si riferisce all'esecuzione di operazioni in modo non bloccante, consentendo al programma di continuare l'esecuzione senza attendere che un'operazione completa.
+
 25. Come funzionano async e await?
+ ***
+
 26. Cosa significa "this" in JavaScript?
+ ***In JavaScript, "this" è una parola chiave che si riferisce al contesto di esecuzione corrente, determinato dal modo in cui una funzione è chiamata. 
+
 27. Come si implementa l'ereditarietà in JavaScript?
+ ***In JavaScript, l'ereditarietà può essere implementata utilizzando il sistema di prototipi dell linguaggio. Ci sono diversi modi per farlo, ma uno dei modelli più comuni è quello basato sui prototipi.
+
 28. Quali sono i metodi di un array in JavaScript?
+ ***I metodi di un array sono: push, pop, shift, unshift, splice, concut e slice.
+
+
 29. Come si invia una richiesta AJAX?
+ ***Per inviare una richiesta AJAX, puoi utilizzare JavaScript insieme a un oggetto XMLHttpRequest o la moderna API Fetch.
+
 30. Quali sono i template literals in JavaScript?
 31. Come si usa JSON in JavaScript?
 32. Qual è lo scopo di una funzione IIFE?
